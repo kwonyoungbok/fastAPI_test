@@ -1,0 +1,4 @@
+example.db
+venv
+*.lock
+.idea

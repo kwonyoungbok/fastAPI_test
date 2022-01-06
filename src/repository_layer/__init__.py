@@ -1,0 +1,3 @@
+from .teacher_repository import teacher_repository
+from .subject_repository import subject_repository
+from .subject_teacher_repository import teacher_subject_repository
